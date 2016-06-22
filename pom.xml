@@ -8,7 +8,7 @@
     <name>Infinispan Tutorial: Simple tutorials</name>
 
     <properties>
-       <version.infinispan>8.2.1.Final</version.infinispan>
+       <version.infinispan>8.2.2.Final</version.infinispan>
     </properties>
 
     <dependencyManagement>
@@ -54,21 +54,6 @@
     
     <modules>
        <module>map</module>
-       <module>distributed</module>
-       <module>replicated</module>
-       <module>jcache</module>
-       <module>functional</module>
-       <module>spark</module>
-       <module>spring</module>
-       <module>tx</module>
-       <module>distexec</module>
-       <module>clusterexec</module>
-       <module>streams</module>
-       <module>remote</module>
-       <module>scripting</module>
-       <module>query</module>
-       <module>listen</module>
-       <module>remote-listen</module>
     </modules>
 </project>
 
